@@ -1,6 +1,6 @@
 # 30-Days-Of-Hacking | Completed On 14th April 2022 (On time🤞)
 
-_Author : Vikas Anand_
+_Author : Himangshu 
 ____
 Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn something everyday and whatever i learn i will share it here for the next 30 Days Continuously.
 
