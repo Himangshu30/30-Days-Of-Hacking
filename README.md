@@ -7,7 +7,7 @@ Hello Guys, Im doing a challenge "30 Days of Hacking". I will try to learn somet
 ![completed](/Days/Completed.png)
 
 
-### So Why I'm Doing This 30-Days-Of-Hacking ?
+### So Why I'm Doing This... 30-Days-Of-Hacking ?
 - I want to be consistent For the next 30 Days.
 - I want to  learn new things Everyday.
 - Report Writing (What Ever I Learned I will share it here)
